@@ -31,4 +31,4 @@
 # 문제 및 파일 링크
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
-| LeetCode | [1. TwoSum](https://leetcode.com/problems/two-sum/) | - | 🟢 |
+| LeetCode | [1. TwoSum](https://leetcode.com/problems/two-sum/) | [Swift](Array/TwoSum.swift) | 🟢 |
