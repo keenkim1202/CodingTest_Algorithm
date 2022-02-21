@@ -15,8 +15,9 @@
 - [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges&utm_source=google&utm_medium=cpc&utm_campaign=coding_test_codingtest&gclid=CjwKCAiA6seQBhAfEiwAvPqu1wlDTXKIUf8ihZu7DE9waMali2LhTjF1y8il4UZ6cqXtOUzxe-jhDxoC0EYQAvD_BwE)
 
 # Data Structure
-- Array
+- [Array](#array)
 - String
+- [Math](#math)
 - Linked List
 - Stack
 - Queue
@@ -29,6 +30,12 @@
 - Graph
 
 # 문제 및 파일 링크
+## Array
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
-| LeetCode | [1. TwoSum](https://leetcode.com/problems/two-sum/) | [Swift](Array/TwoSum.swift) | 🟢 |
+| LeetCode | [1. TwoSum](https://leetcode.com/problems/two-sum/)    | [Swift](Array/TwoSum.swift)  | 🟢 |
+
+## Math
+| 문제 출처 | 제목 | 풀이 | 난이도 |
+| ------- | --- | --- | ---- |
+| LeetCode | [50. Pow(x,n)](https://leetcode.com/problems/two-sum/) | [Swift](Math/Pow(x,n).swift) | 🟠 |
