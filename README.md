@@ -22,6 +22,7 @@
 - Stack
 - Queue
 - Tree
+- [Brute Force](#bruteforce)
 - DP (Dynamic programming)
 - DFS (Depth-first search)
 - BFS (Breadth-first search)
@@ -39,3 +40,8 @@
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
 | LeetCode | [50. Pow(x,n)](https://leetcode.com/problems/two-sum/) | [Swift](Math/Pow(x,n).swift) | 🟠 |
+
+## BruteForce
+| 문제 출처 | 제목 | 풀이 | 난이도 |
+| ------- | --- | --- | ---- |
+| Programmers | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | - | 🟠 |
