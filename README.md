@@ -26,7 +26,7 @@
 - DP (Dynamic programming)
 - DFS (Depth-first search)
 - BFS (Breadth-first search)
-- Search
+- [Search](#search)
 - Sort
 - Graph
 
@@ -45,3 +45,9 @@
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
 | Programmers | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [Swift](BruteForce/카펫.swift) | 🟠 |
+
+## Search
+| 문제 출처 | 제목 | 풀이 | 난이도 |
+| ------- | --- | --- | ---- |
+| Programmers | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | - | 🟠 |
+
