@@ -1,10 +1,10 @@
-import Foundation
-
 /*
  - 문제: 카펫
  - 링크: https://programmers.co.kr/learn/courses/30/lessons/42842
  - key: 곱해서 n이 되는 수를 찾아보자
  */
+ 
+import Foundation
 
 func makeDivisorArray(_ n: Int) -> [[Int]] {
   var num: Int = 3

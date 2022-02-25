@@ -8,6 +8,11 @@
 - 풀이한 문제 파일을 업로드할 때는 `문제링크`, `문제 요약`, `풀이`를 포함하여 작성합니다.
 - '문제 및 파일 링크'에는 `문제 출제 플랫폼`, `문제 제목`, `풀이`, `난이도`를 작성합니다.
 - 난이도는 상(🔴),중(🟠 ),하(🟢)로 표기합니다.
+```
+ * LeetCode : easy(하), medium(중), head(상)
+ * 프로그래머스: level1(하), 2-3(중), 4(상)
+```
+
 
 
 # 문제 출처
@@ -29,6 +34,7 @@
 - Search
 - [Sort](#sort)
 - Graph
+- [Hash](#hash)
 
 # 문제 및 파일 링크
 ## Array
@@ -51,3 +57,7 @@
 | ------- | --- | --- | ---- |
 | Programmers | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [Swift](Sort/H-Index.swift) | 🟠 |
 
+## Hash
+| 문제 출처 | 제목 | 풀이 | 난이도 |
+| ------- | --- | --- | ---- |
+| Programmers | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [Swift](Hash/위장.swift) | 🟠 |

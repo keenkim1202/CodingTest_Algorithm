@@ -1,10 +1,9 @@
-import Foundation
-
 /*
  - 문제: H - Index
  - 링크: https://programmers.co.kr/learn/courses/30/lessons/42747
  - key: 정렬 후 탐색하기
  */
+import Foundation
 
 func solution(_ citations:[Int]) -> Int {
   let array = citations.sorted(by: >)
