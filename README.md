@@ -61,3 +61,8 @@
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
 | Programmers | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [Swift](Hash/위장.swift) | 🟠 |
+
+## Trie
+| 문제 출처 | 제목 | 풀이 | 난이도 |
+| ------- | --- | --- | ---- |
+| Programmers | [가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | [Swift](Trie/가사검색.swift), [Python](Trie/가사검색.py) | 🔴 |
