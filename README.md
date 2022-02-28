@@ -35,6 +35,7 @@
 - [Sort](#sort)
 - Graph
 - [Hash](#hash)
+- [Trie](#trie)
 
 # 문제 및 파일 링크
 ## Array
