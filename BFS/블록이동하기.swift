@@ -74,6 +74,7 @@ func nextMoveArray(cur: Robot, board: [[Int]]) -> Array<Robot> {
         }
     }
     
+    // 세로
     else if cur.left.y == cur.right.y {
         for i in [2,3] {
             let left = calNextCoordi(cur: cur.left, dist: dist[i]!)
