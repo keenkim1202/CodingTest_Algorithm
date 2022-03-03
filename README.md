@@ -30,7 +30,7 @@
 - [Brute Force](#bruteforce)
 - DP (Dynamic programming)
 - DFS (Depth-first search)
-- BFS (Breadth-first search)
+- [BFS(Breadth-first search)](#bfs-breadth-first-search)
 - Search
 - [Sort](#sort)
 - Graph
@@ -52,6 +52,11 @@
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
 | Programmers | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [Swift](BruteForce/카펫.swift) | 🟠 |
+
+## BFS (Breadth-first search)
+| 문제 출처 | 제목 | 풀이 | 난이도 |
+| ------- | --- | --- | ---- |
+| Programmers | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [Swift](BFS/블록이동하기.swift), [Python](BFS/블록이동하기.py) | 🟠 |
 
 ## Sort
 | 문제 출처 | 제목 | 풀이 | 난이도 |
