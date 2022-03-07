@@ -42,6 +42,7 @@
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
 | LeetCode | [1. TwoSum](https://leetcode.com/problems/two-sum/)    | [Swift](Array/TwoSum.swift)  | 🟢 |
+| Programmers | [[1차]뉴스클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [Swift](Array/[1차]뉴스클러스터링.swift) | 🟠 |
 
 ## Math
 | 문제 출처 | 제목 | 풀이 | 난이도 |
