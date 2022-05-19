@@ -58,6 +58,7 @@
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
 | Programmers | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [Swift](BFS/블록이동하기.swift), [Python](BFS/블록이동하기.py) | 🟠 |
+| BaekJoon | [미로 찾기](https://www.acmicpc.net/problem/2178) | [Swift](BFS/미로찾기.swift) | 🟠 |
 
 ## Sort
 | 문제 출처 | 제목 | 풀이 | 난이도 |
