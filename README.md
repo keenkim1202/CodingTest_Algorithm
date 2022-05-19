@@ -10,7 +10,8 @@
 - 난이도는 상(🔴),중(🟠 ),하(🟢)로 표기합니다.
 ```
  * LeetCode : easy(하), medium(중), head(상)
- * 프로그래머스: level1(하), 2-3(중), 4(상)
+ * 프로그래머스 : level1(하), 2-3(중), 4(상)
+ * 이것이코딩테스트다(이코테) : 동그라미 0~1.5칸(하) 2칸(중), 2칸 초과(상)
 ```
 
 
@@ -54,11 +55,17 @@
 | ------- | --- | --- | ---- |
 | Programmers | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [Swift](BruteForce/카펫.swift) | 🟠 |
 
+## DFS (Depth-first search)
+| 문제 출처 | 제목 | 풀이 | 난이도 |
+| ------- | --- | --- | ---- |
+| 이코테 | 음료수 얼려먹기 | [Swift](DFS/음료수얼려먹기.swift)| 🟢 |
+
 ## BFS (Breadth-first search)
 | 문제 출처 | 제목 | 풀이 | 난이도 |
 | ------- | --- | --- | ---- |
 | Programmers | [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [Swift](BFS/블록이동하기.swift), [Python](BFS/블록이동하기.py) | 🟠 |
 | BaekJoon | [미로 찾기](https://www.acmicpc.net/problem/2178) | [Swift](BFS/미로찾기.swift) | 🟠 |
+
 
 ## Sort
 | 문제 출처 | 제목 | 풀이 | 난이도 |
